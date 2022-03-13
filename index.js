@@ -1,1 +1,0 @@
-require("express")().get("/",(e,s)=>s.sendFile(require("path").resolve("index.html"))).listen(process.env.PORT),console.log("Website Ready!");
