@@ -184,11 +184,11 @@ const Contact = props => {
         className: "subtitle"
     }, "Please, use the form below or send an email to ", '', /*#__PURE__*/ React.createElement("span", {
         className: "mail"
-    }, "badboyplays9999", /*#__PURE__*/ React.createElement("i", {
+    }, "contact", /*#__PURE__*/ React.createElement("i", {
         className: "fas fa-at at"
-    }), "gmail", /*#__PURE__*/ React.createElement("i", {
+    }), "mail.badboy.is-a", /*#__PURE__*/ React.createElement("i", {
         className: "fas fa-circle dot"
-    }), "com"), ":")), /*#__PURE__*/ React.createElement(SocialLinks, null)), /*#__PURE__*/ React.createElement("form", {
+    }), "dev"), ":")), /*#__PURE__*/ React.createElement(SocialLinks, null)), /*#__PURE__*/ React.createElement("form", {
         id: "contact-form",
         action: "#"
     }, /*#__PURE__*/ React.createElement("input", {
